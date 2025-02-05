@@ -37,7 +37,7 @@ The app provides a sidebar to switch between projects and manage tasks within th
 3. Run the app:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 4. Visit `http://localhost:3000` in your browser to view the app.
